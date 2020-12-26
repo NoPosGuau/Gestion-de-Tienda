@@ -1,0 +1,11 @@
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\bin\Debug\TIENDA.exe.config
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\bin\Debug\TIENDA.exe
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\bin\Debug\TIENDA.pdb
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.csprojAssemblyReference.cache
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.Form1.resources
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.Properties.Resources.resources
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.csproj.GenerateResource.cache
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.csproj.CoreCompileInputs.cache
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.exe
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.pdb
+C:\Users\ROMNEY\source\repos\TIENDA\TIENDA\obj\Debug\TIENDA.deudores.resources
